@@ -1,4 +1,4 @@
-# 📝 Console To-Do App — v2
+# 📝 Console To-Do App 
 
 A modular, console-based CRUD To-Do application built with **FastAPI**, **SQLAlchemy (SQLite)**, and **Pydantic v2**. Fully persistent, filterable, and equipped with a live dashboard.
 
